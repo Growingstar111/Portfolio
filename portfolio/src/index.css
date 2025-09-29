@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.my-swiper .swiper-pagination {
+  margin-bottom: -10px !important;
+  
+}
