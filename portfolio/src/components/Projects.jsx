@@ -16,8 +16,21 @@ import hrms0 from '../assets/hrms0.png'
 import hrms1 from '../assets/hrms1.png'
 import hrms2 from '../assets/hrms2.png'
 
+import ai1 from '../assets/Screenshot 2025-10-13 210551.png'
+import ai2 from '../assets/Screenshot 2025-10-13 210606.png'
+import ai3 from '../assets/Screenshot 2025-10-15 033715.png'
+import ai4 from '../assets/Screenshot 2025-10-15 033919.png'
+import ai5 from '../assets/Screenshot 2025-10-15 034701.png'
+
 const Projects = () => {
   const projects = [
+      {
+          title: 'E-commerce Website',
+          desc: 'Smart AI Assistant is a full-stack MERN web app integrated with Gemini AI. It features a witty chatbot (English/Hinglish) and a voice assistant that can search Google & YouTube, tell time, date, and weather. Includes secure authentication (signup/login, OTP verification, password reset) and responsive UI with About & Help pages for guidance.',
+          image: [ai1, ai2,ai3,ai4,ai5],
+          live: "https://ephemeral-lebkuchen-eee5f2.netlify.app/",
+          github: "https://github.com/Growingstar111/Ai-Assistant-Frontend"
+        },
 
    {
           title: 'E-commerce Website',
