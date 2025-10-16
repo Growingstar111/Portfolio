@@ -1,5 +1,5 @@
 import resume from "../assets/Cv_VivekSharma.pdf"
-import Cv_VivekSharma from "../assets/Cv_VivekSharma.pdf"
+import Cv_VivekSharma from "../assets/Cv_VivekSharma (2).pdf"
 
 import vivek from '../assets/vivek2.jpg'
 
