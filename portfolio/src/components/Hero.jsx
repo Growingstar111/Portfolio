@@ -1,5 +1,5 @@
-
-import Cv_VivekSharma from "../assets/Cv_Vivek_Sharma (2).pdf"
+import resume from "../assets/Cv_VivekSharma (2).pdf"
+import Cv_VivekSharma from "../assets/Cv_VivekSharma (2).pdf"
 
 import vivek from '../assets/vivek2.jpg'
 
@@ -16,7 +16,7 @@ const Hero=()=>{
 <h2 className="text-4xl font-bold  ">I'm Vivek Sharma</h2>
 <h2 className="text-xl  ">MERN Stack Developer</h2>
 <p className="">I'm a passionate web developer with expertise in React, Node.js, and modern web technologies. <br /> I love creating beautiful and functional website that solve real world problems.</p>
-<button className="w-36 p-2 bg-black text-white border-0 " > <a href={Cv_VivekSharma} download='Cv_VivekSharma'>Download CV</a></button>
+<button className="w-36 p-2 bg-black text-white border-0 " > <a href={Cv_VivekSharma} download='resume'>Download CV</a></button>
         </div>
         <div className="md:w-1/2 relative flex justify-center items-end ml-20 ">
  <img src={vivek} alt=""  className="h-[90vh] mt-5 mr-14 "/>
